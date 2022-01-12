@@ -49,10 +49,10 @@ class _MainPageState extends State<MainPage> {
                   color: Colors.green,
                 ),
           Container(
-            color: Colors.red,
+            color: Colors.yellow,
           ),
           Container(
-            color: Colors.blue,
+            color: Colors.red,
           ),
         ],
       ),
